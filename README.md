@@ -1,16 +1,25 @@
-### Hi there 👋
+<img src="https://firebasestorage.googleapis.com/v0/b/soy-smile-249718.appspot.com/o/readmeimg.jpg?alt=media&token=6f877a58-fa77-40f8-b090-ab4c81184669" height="350px">
 
-<!--
-**luxal99/luxal99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Programming skills
 
-Here are some ideas to get you started:
+### Backend 🔑
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+  * SpringBoot
+  * JSP
+* JavaScript 
+  * Node.js
+  * Express
+  * Nest.js
+
+### Database :bar_chart:
+
+* MySQL/MariaDB 
+* NoSQL - Mongo
+
+### Frontend :smile:
+
+* Angular
+* HTML/CSS
+* Bootstrap
+
