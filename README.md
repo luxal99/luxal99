@@ -18,8 +18,14 @@
 * NoSQL - Mongo
 
 ### Frontend :smile:
-
-* Angular
 * HTML/CSS
 * Bootstrap
+* Angular
+* React
+* PWA
+* RXJS
+* NGRX
+* React
+* Redux
+* Next.js
 
